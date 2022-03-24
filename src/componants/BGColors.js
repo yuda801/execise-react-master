@@ -61,6 +61,7 @@ const BGColors = () => {
                         onChange={(e) => setColor(e.target.value)}
                         id="outlined-basic" label="color" variant="outlined" />
                 </Box>
+                <h1>h1</h1>
 
             </Stack>
 
